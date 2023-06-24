@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    
+}
+body {
+    background: linear-gradient(
+        to right,
+        rgba(106, 17, 203, 1),
+        rgba(37, 117, 252, 1)
+      );
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
